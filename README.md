@@ -7,7 +7,8 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham2270&hide=php&layout=compact&theme=cobalt" />
 </a>
----
+
+<hr/>
 
 <br/>
 
