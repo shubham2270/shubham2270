@@ -4,18 +4,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=shubham2270&count_private=true&show_icons=true&theme=cobalt&hide_rank=true&include_all_commits=true" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Arun4033622&count_private=true&show_icons=true&theme=cobalt&hide_rank=true&include_all_commits=true" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rafi993&count_private=true&show_icons=true&theme=cobalt&hide_rank=true&include_all_commits=true" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ckshekhar&count_private=true&show_icons=true&theme=cobalt&hide_rank=true&include_all_commits=true" />
-</a>
-
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham2270&hide=php&layout=compact&theme=cobalt" />
