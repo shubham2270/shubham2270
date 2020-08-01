@@ -9,12 +9,7 @@
 </a>
 </div>
 
-<br/><br/>
-<hr/>
-
 <br/>
-<br/><br/><br/><br/><br/><br/><br/>
-
 <div align="left">
   
 ### Languages and Tools:
