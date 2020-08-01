@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-[![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubham2270&count_private=true&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham2270&hide=php&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=shubham2270&count_private=true&show_icons=true&theme=shades-of-purple" />
 </a>
