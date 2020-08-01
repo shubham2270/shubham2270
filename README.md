@@ -8,7 +8,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham2270&hide=php&layout=compact&theme=cobalt" />
 </a>
 
-</br></br>
+<br />
 
 ### Languages and Tools:
 
