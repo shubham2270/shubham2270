@@ -2,6 +2,8 @@
 
 [![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubham2270&count_private=true&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham2270)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **shubham2270/shubham2270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
