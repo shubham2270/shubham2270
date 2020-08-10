@@ -26,7 +26,6 @@
 <img align="left" alt="" width="26px" src="https://icongr.am/devicon/ubuntu-plain.svg?size=26&color=currentColor" />
 <img align="left" alt="" width="26px" src="https://icongr.am/simple/redux.svg?size=26&color=0088cc&colored=false" />
 <img align="left" alt="" width="26px" src="https://icongr.am/simple/styledcomponents.svg?size=26&color=4f4f4f&colored=false" />
-<img align="left" alt="" width="26px" src="https://icongr.am/simple/tensorflow.svg?size=26&color=ffb752&colored=false" />
 <img align="left" alt="" width="26px" src="https://icongr.am/simple/googlekeep.svg?size=26&color=ffb752&colored=false" />
 </div>
 <br />
